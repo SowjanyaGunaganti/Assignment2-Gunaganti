@@ -40,10 +40,10 @@ The third column is the amount of money expect to pay
 ###### Quotes I Like
 
 <i>Albert Einstein</i>
- <Education is not the learning of Facts,rather it's the training of the mind to think>
+ <blockquote>Education is not the learning of Facts,rather it's the training of the mind to think
 
 <i>Neil Gaiman</i>
- <A book is a dream you hold in your hand>
+ <q>A book is a dream you hold in your hand
 
 
 
