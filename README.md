@@ -12,4 +12,7 @@ directions for travelling from maryville to india
 2. should take a flight from kansas to chicago and then again take a flight from chicago to delhi.
 3. from delhi,need to take a domestic flight from delhi to hyderabad
     1. take a cab and go to home
+* Chocolates 
+* cooldrinks
+* valuable things 
     
