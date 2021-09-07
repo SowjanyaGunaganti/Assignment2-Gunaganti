@@ -19,4 +19,19 @@ directions for travelling from maryville to india
 [AboutMe](https://github.com/SowjanyaGunaganti/Assignment2-Gunaganti/blob/main/AboutMe.md)
 ***Here is the teddy image link**
 [teddy](https://github.com/SowjanyaGunaganti/Assignment2-Gunaganti/blob/main/image.jpg)
+
+---
+
+##### Table creation
+Below is the table details that includes 
+The first column is the food/drink item.
+The second column will be a location where I can get the item.
+The third column is the amount of money expect to pay
+
+| Food/Drink | Location | Amount of money |
+|          ---    |     ---    |   ---:   |
+| Burger    | McDonald's  | $6       |
+| coco cola | Tacobell    | $2       |
+| Pizza     | Domino's    | $20      |
+| pepsi     | Domino's    | $3       |
     
