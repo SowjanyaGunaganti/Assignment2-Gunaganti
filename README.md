@@ -15,4 +15,8 @@ directions for travelling from maryville to india
 * Chocolates 
 * cooldrinks
 * valuable things 
+**Here is the AboutMe file link**
+[AboutMe]https://github.com/SowjanyaGunaganti/Assignment2-Gunaganti/blob/main/AboutMe.md
+***Here is the teddy image link**
+[teddy]https://github.com/SowjanyaGunaganti/Assignment2-Gunaganti/blob/main/image.jpg
     
