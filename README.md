@@ -43,7 +43,8 @@ The third column is the amount of money expect to pay
  <blockquote>Education is not the learning of Facts,rather it's the training of the mind to think
 
 <i>Neil Gaiman</i>
- <q>A book is a dream you hold in your hand
+ <blockquote>A book is a dream you hold in your hand
+ 
 
 
 
