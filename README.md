@@ -39,8 +39,13 @@ The third column is the amount of money expect to pay
 
 ###### Quotes I Like
 
-*Albert Einstein*
- > Education is not the learning of Facts,rather it's the training of the mind to think<br> *Neil Gaiman*
+
+ > Education is not the learning of Facts,rather it's the training of the mind to think <br> 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- *Albert Einstein*
+
+
+  *Neil Gaiman*
+
  > A book is a dream you hold in your hand
 
 
